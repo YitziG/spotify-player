@@ -283,7 +283,7 @@ To open a shortcut help popup, press `?` or `C-h` (default shortcuts for `OpenCo
 List of supported commands:
 
 | Command                        | Description                                                             | Default shortcuts  |
-| ------------------------------ | ----------------------------------------------------------------------- | ------------------ |
+|--------------------------------|-------------------------------------------------------------------------|--------------------|
 | `NextTrack`                    | next track                                                              | `n`                |
 | `PreviousTrack`                | previous track                                                          | `p`                |
 | `ResumePause`                  | resume/pause based on the current playback                              | `space`            |
