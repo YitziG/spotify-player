@@ -20,4 +20,5 @@ NOTES*
 
 # Generated html files for live previewing markdown
 *.html
-.idea/workspace.xml
+.DS_Store
+/.idea/
